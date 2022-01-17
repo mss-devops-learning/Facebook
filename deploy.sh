@@ -6,4 +6,4 @@ I am updating this line
 This file contains the deployment  logic
 
 This line is added in UAT branch to demostrate Pull Request
-added this line
+added this line to check the git pull command
